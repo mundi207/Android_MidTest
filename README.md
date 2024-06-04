@@ -1,3 +1,6 @@
-# DCU Music Player
+안드로이드 프로그래밍 중간고사 과제 제출합니다. (20118438, 최민규)
 
-## required to be added play function
+1. 샘플음악이 있으신 듯 하여 따로 넣지 않았습니다.
+2. mp3 파일 경로는 /sdcard로 넣으시면 됩니다.
+
+이상입니다.
